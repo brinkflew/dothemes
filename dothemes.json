@@ -1,14 +1,14 @@
 [
 	{
-		"author" : "brinkflew",
-		"name" : "Discord",
-		"keyWords" : "Brinkflew, Discord",
-		"version" : "0.1",
-		"dofusVersion" : "2.55",
-		"description" : "Thème aux couleurs de l'application Discord",
-		"url" : "https://github.com/brinkflew/dothemes/blob/master/releases/discord.zip?raw=true",
-		"previewUrl" : "https://github.com/brinkflew/dothemes/blob/master/previews/discord.jpg?raw=true",
-		"creationDate" : "11/05/2020",
-		"modificationDate" : "11/05/2020"
+		"author": "brinkflew",
+		"name": "discord",
+		"keyWords": "Brinkflew, Discord",
+		"version": "0.0.1",
+		"dofusVersion": "2.55",
+		"description": "Thème aux couleurs de l'application Discord",
+		"url": "http://127.0.0.1/releases/discord.zip",
+		"previewUrl": "http://127.0.0.1/previews/discord.png",
+		"creationDate": "11/05/2020",
+		"modificationDate": "11/05/2020"
 	}
 ]

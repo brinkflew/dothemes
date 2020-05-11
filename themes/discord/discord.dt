@@ -1,7 +1,11 @@
 <theme>
-    <name>Discord</name>
+    <name>discord</name>
     <skinType>1</skinType>
-    <description>[ui.option.theme.dark]</description>
-    <previewUri>discord.jpg</previewUri>
-	<author>Brinkflew</author>
+    <description>Thème aux couleurs de l'application Discord</description>
+    <previewUri>preview.png</previewUri>
+	<author>brinkflew</author>
+    <version>0.0.1</version>
+	<dofusVersion>2.55</dofusVersion>
+    <creationDate>11/05/2020</creationDate> 
+    <modificationDate>11/05/2020</modificationDate>
 </theme>
