@@ -1,0 +1,11 @@
+<theme>
+    <name>onedark</name>
+    <skinType>1</skinType>
+    <description>Thème personnalisé aux couleurs de OneDark</description>
+    <previewUri>onedarkPreview.png</previewUri>
+	<author>brinkflew</author>
+    <version>0.0.2</version>
+	<dofusVersion>2.55</dofusVersion>
+    <creationDate>12/05/2020</creationDate> 
+    <modificationDate>12/05/2020</modificationDate>
+</theme>
