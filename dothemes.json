@@ -22,5 +22,17 @@
 		"previewUrl": "http://127.0.0.1/previews/onedark.png",
 		"creationDate": "12/05/2020",
 		"modificationDate": "13/05/2020"
+	},
+	{
+		"author": "brinkflew",
+		"name": "onedarkMinimal",
+		"keyWords": "brinkflew,dark,tactic,minimal",
+		"version": "0.0.1",
+		"dofusVersion": "2.58",
+		"description": "Minimalist dark theme.",
+		"url": "https://github.com/brinkflew/dothemes/blob/master/releases/onedarkMinimal.zip?raw=true",
+		"previewUrl": "https://github.com/brinkflew/dothemes/blob/master/previews/onedarkMinimal.png?raw=true",
+		"creationDate": "08/03/2021",
+		"modificationDate": "08/03/2021"
 	}
 ]
